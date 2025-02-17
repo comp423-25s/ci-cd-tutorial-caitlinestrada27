@@ -9,8 +9,8 @@ app = FastAPI()
 
 
 TIMEZONES = [
-    "America/New_York",
     "Africa/Johannesburg",
+    "America/New_York",
 ]
 
 
